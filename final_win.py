@@ -5,7 +5,7 @@ from PyQt5.QtWidgets import (
         QHBoxLayout, QVBoxLayout, QGridLayout, 
         QGroupBox, QRadioButton,
         QPushButton, QLabel, QListWidget, QLineEdit)
-        
+        ############################################################
 from instr import *
 
 class FinalWin(QWidget):
